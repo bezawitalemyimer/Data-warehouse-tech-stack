@@ -4,3 +4,5 @@ An AI startup that deploys sensors to businesses, collects data from all activit
 ## Objective  
  The contract with the client is to reduce the cost of running the client facility as well as to increase the livability and productivity of workers with the responsibility to install all the required sensors, receive a stream of data from all sensors, and analyze the data to provide key insights to the business.
 
+# Design architecture
+![design](https://user-images.githubusercontent.com/47286297/134458760-f7ebd17e-8c1f-4cb5-b815-9acee4997e37.png)
