@@ -1,4 +1,10 @@
 # Data warehouse tech stack
+
+## Table of Contents
+  - [Introduction](#Introduction)
+  - [Technologies Used](#Technologies)
+  - [Folders](#Folders)
+  - [Architecture](# DesignArchitecture)
 # Introdcution 
 
 ## Business  overview
@@ -6,6 +12,7 @@ An AI startup that deploys sensors to businesses, collects data from all activit
 ## Objective  
  The contract with the client is to reduce the cost of running the client facility as well as to increase the livability and productivity of workers with the responsibility to install all the required sensors, receive a stream of data from all sensors, and analyze the data to provide key insights to the business.
  
+ # Folder 
 
 
 # Design architecture
@@ -15,3 +22,10 @@ An AI startup that deploys sensors to businesses, collects data from all activit
 
 - Transformation on data using DBT using the data as a source and saving the data as table/view and stored the processed and transformed data on the data warehouse. 
 - Finalize with visualization of the data warehouse using Redshift by consuming the data from the warehouse to make perspicacious visualization
+
+## Technologies
+-   [Data warehouse](https://g.co/kgs/UCz1nE): To  used for reporting and data analysis and is considered a core component of business intelligence. 
+  -   [Apache Airflow](https://airflow.apache.org/docs/apache-airflow/stable/installation.html): To create,ocherstrate and monitor data workflows 
+  - [PostgreSQL](https://g.co/kgs/mvNNFY):For Database management system emphasizing extensibility and SQL compliance
+  - [Redash:](https://redash.io/):To Build a version control script system by hitting the API, download the queries and built an automated git storage process 
+ 
