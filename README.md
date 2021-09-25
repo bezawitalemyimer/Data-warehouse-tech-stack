@@ -4,7 +4,7 @@
   - [Introduction](#Introduction)
   - [Technologies Used](#Technologies)
   - [Folders](#Folders)
-  - [Architecture](# DesignArchitecture)
+  - [Architecture](# Design architecture)
 # Introdcution 
 
 ## Business  overview
