@@ -4,7 +4,7 @@
   - [Introduction](#Introduction)
   - [Technologies Used](#Technologies)
   - [Folders](#Folders)
-  - [Architecture](# Design architecture)
+  - [Architecture](#Design Architecture)
 # Introdcution 
 
 ## Business  overview
@@ -15,7 +15,7 @@ An AI startup that deploys sensors to businesses, collects data from all activit
  # Folder 
 
 
-# Design architecture
+# Design Architecture
 ![design](https://user-images.githubusercontent.com/47286297/134458760-f7ebd17e-8c1f-4cb5-b815-9acee4997e37.png)
 
 - Loading the raw dataset to our Database then initialize different Airflow dag scripts task schedules to be used as a source to DBT.
